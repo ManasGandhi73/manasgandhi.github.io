@@ -1,11 +1,11 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
+  - item: C/C++
   - item: Python
-  - item: SQL
-  - item: R
+  - item: Verilog/SystemVerilog
+  - item: Rust
+  - item: Java
+  - item: HTML/CSS
+  - item: JavaScript
 
 frameworks:
   - item: Ember & Glimmer
@@ -16,18 +16,21 @@ frameworks:
   - item: Wordpress
   - item: Timber
 
-tools:
-  - item: Bash
+tools/frameworks:
+  - item: Linux
+  - item: TensorFlow/PyTorch
+  - item: GDB
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+  - item: Nvidia RSI
+  - item: Vivado
+  - item: React
+  - item: Ghidra
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+coursework:
+  - item: Computer System Engineering
+  - item: Digital Systems Laboratory
+  - item: Artificial Intelligence
+  - item: Robotics
+  - item: Parallel Programming
+  - item: Data Structures and Algorithms
+  - item: Natural Language Processing

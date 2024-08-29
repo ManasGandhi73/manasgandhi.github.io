@@ -18,19 +18,25 @@ body {
   padding: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: $white;
-  color: $dark-grey;
-  font-family: $Apercu;
-  line-height: 1.5;
-  width: 100%;
-
-  &.night {
-    background-color: $night;
-    color: $slate;
-    ::selection {
+  background-color: $night;
+  color: $slate;
+  ::selection {
       color: $black;
       background: $yellow;
     }
+  font-family: $Apercu;
+  line-height: 1.5;
+  width: 100%;
+  //background-color: $white;
+  //color: $dark-grey;
+
+  &.night {
+    background-color: $white;
+    color: $dark-grey;
+    //::selection {
+    //  color: $black;
+    //  background: $yellow;
+    //}
     .switch-wrapper {
       .sun {
         background: url('../img/switch/sun-white.svg') no-repeat center;

@@ -8,26 +8,29 @@ languages:
   - item: R
 
 frameworks:
-  - item: Ember & Glimmer
+  - item: Linux
+  - item: TensorFlow/PyTorch
+  - item: GDB
+  - item: Git & Github
+  - item: NVIDIA RSI
+  - item: Vivado
   - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: Ghidra
 
 tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+  - item: Computer Systems Engineering
+  - item: Digital Systems Laboratory
+  - item: Artificial Intelligence
+  - item: Robotics
+  - item: Parallel Programming
+  - item: Data Structures and Algorithms
+  - item: Natural Language Processing
 
 design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+  - item: Computer Systems Engineering
+  - item: Digital Systems Laboratory
+  - item: Artificial Intelligence
+  - item: Robotics
+  - item: Parallel Programming
+  - item: Data Structures and Algorithms
+  - item: Natural Language Processing

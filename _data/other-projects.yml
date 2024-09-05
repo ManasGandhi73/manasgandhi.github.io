@@ -1,13 +1,13 @@
-- name: BANG
+- name: Subscribe Kadena
   url: https://github.com/manaspgandhi/subscribe-kadena
   code: https://github.com/manaspgandhi/subscribe-kadena
-  description: Small React project created during an interview process to browse and search surf videos via the YouTube API.
+  description: Marmalade NFT based subscription model for subscription services such as Netflix and the gym; used Pact, React, and Node
   used:
+    - thing: Blockchain
     - thing: JavaScript
     - thing: React
-    - thing: React Router
-    - thing: Axios
-    - thing: YouTube API
+    - thing: Node
+    - thing: Pact/Marmalade
 
 - name: Halcyon Theme
   url: https://bchiang7.github.io/halcyon-site/

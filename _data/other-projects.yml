@@ -1,7 +1,7 @@
 - name: Subscribe Kadena
   url: https://github.com/manaspgandhi/subscribe-kadena
   code: https://github.com/manaspgandhi/subscribe-kadena
-  description: Marmalade NFT based subscription model for subscription services such as Netflix and the gym; used Pact, React, and Node
+  description: Marmalade NFT based subscription model for subscription services such as Netflix and the gym; used Pact, React, and Node.
   used:
     - thing: Blockchain
     - thing: JavaScript
@@ -12,7 +12,7 @@
 - name: Quantum Options Pricing Model
   url: https://github.com/uiucdisruptionlab/sp22_quantum_options
   code: https://github.com/uiucdisruptionlab/sp22_quantum_options
-  description: Created a options price prediction model using a quantum version of the Monte Carlo method using qiskit
+  description: Created a options price prediction model using a quantum version of the Monte Carlo method using qiskit.
   used:
     - thing: Gatsby
     - thing: Sublime Text
@@ -37,7 +37,7 @@
 - name: Reinforcement Learning with Policy Gradient Methods
   url: https://bchiang7.github.io/Redesign-myNEU/
   code: https://github.com/bchiang7/Redesign-myNEU
-  description: Developed reinforcement learning algorithms through policy gradient methods such as Proximal Policy Optimization, future returns, and advantage estimation using PyTorch and Python to test on OpenAI gymnasium environments
+  description: Developed reinforcement learning algorithms through policy gradient methods such as Proximal Policy Optimization, future returns, and advantage estimation using PyTorch and Python to test on OpenAI gymnasium environments.
   used:
     - thing: Jekyll
     - thing: HTML
@@ -47,7 +47,7 @@
 - name: Robot Arm Sorter
   url: https://github.com/crowddj/crowddj-react
   code: https://github.com/crowddj/crowddj-react
-  description: Used ROS and Python to control robot arm, making it detect the correct objects on the table using openCV and place them in color order
+  description: Used ROS and Python to control robot arm, making it detect the correct objects on the table using openCV and place them in color order.
   used:
     - thing: React
     - thing: Sass
@@ -57,7 +57,7 @@
 - name: Crypto Arbitrage
   url: http://quiet-dusk-89245.herokuapp.com/
   code: https://github.com/bchiang7/DemoWebApp
-  description: Software that does inter-platform and intra-platform arbitrage on stable coins, monitering when they change value and investing with low latency
+  description: Software that does inter-platform and intra-platform arbitrage on stable coins, monitering when they change value and investing with low latency.
   used:
     - thing: JavaScript
     - thing: CSS

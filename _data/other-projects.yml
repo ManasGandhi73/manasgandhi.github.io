@@ -1,25 +1,22 @@
-- name: Surf Videos
-  url: https://github.com/bchiang7/Surf-Videos
-  code: https://github.com/bchiang7/Surf-Videos
-  description: Small React project created during an interview process to browse and search surf videos via the YouTube API.
+- name: Subscribe Kadena
+  url: 
+  code: https://github.com/manaspgandhi/subscribe-kadena
+  description: Marmalade NFT based subscription model for subscription services such as Netflix and the gym; used Pact, React, and Node 
   used:
+    - thing: Blockchain
     - thing: JavaScript
     - thing: React
-    - thing: React Router
-    - thing: Axios
-    - thing: YouTube API
+    - thing: Pact
+    - thing: Node
 
-- name: Halcyon Theme
-  url: https://bchiang7.github.io/halcyon-site/
-  code: https://github.com/bchiang7/halcyon-site
-  description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
+- name: Quantum Options Pricing Model
+  url:
+  code: https://github.com/uiucdisruptionlab/sp22_quantum_options
+  description: Created a options price prediction model using a quantum version of the Monte Carlo method using qiskit 
   used:
-    - thing: Gatsby
-    - thing: Sublime Text
-    - thing: Atom
-    - thing: VS Code
-    - thing: iTerm2
-    - thing: Hyper
+    - thing: Quantum Computing
+    - thing: Python
+    - thing: Qiskit
 
 - name: Lonely Planet DBMS
   url: https://github.com/bchiang7/CS3200-Project
@@ -43,69 +40,34 @@
     - thing: SCSS
     - thing: JavaScript
 
-- name: Crowd DJ
-  url: https://github.com/crowddj/crowddj-react
-  code: https://github.com/crowddj/crowddj-react
-  description:
-    A web app that allows people who are at a party or social gathering with a DJ to request songs via their smartphones. The web app allows people to see the currently playing song, request songs, upvote songs, and rate songs so the DJ can see how the crowd is feeling and act accordingly. In other words, Crowd DJ is essentially a crowdsourced music queue. <br>
-    <a class="small" href="http://projects.hackbeanpot.com/2017-projects.html">🏆 Won Best UI/UX Design at Hackbeanpot 2017 🏆</a>
-  used:
-    - thing: React
-    - thing: Sass
-    - thing: Firebase
-    - thing: Spotify API
 
-- name: Weather Widget
-  url: http://quiet-dusk-89245.herokuapp.com/
-  code: https://github.com/bchiang7/DemoWebApp
-  description: A simple weather app I made at HubSpot's Fall 2016 Web App Workshop with Node.js, Express, and Heroku. I used the OpenWeatherMap API to get weather and forecast data, and then used the current city's coordinates to create a map background that reflected the current city using the Google Maps API.
-  img: weather
+- name: Reinforcement Learning with Policy Gradient Methods
+  url: 
+  code: 
+  description: Developed reinforcement learning algorithms through policy gradient methods such as Proximal Policy Optimization, future
+returns, and advantage estimation using PyTorch and Python to test on OpenAI gymnasium environments
   used:
-    - thing: JavaScript
-    - thing: CSS
-    - thing: Node.js
-    - thing: Express
-    - thing: Heroku
-    - thing: OpenWeatherMap API
-    - thing: Google Maps API
+    - thing: Machine Learning
+    - thing: Python
+    - thing: PyTorch
+    - thing: OpenAI
 
-# - name: ScreenTime 2.0
-#   url: https://play.google.com/store/apps/details?id=com.starry.management
-#   description: App-blocking feature on <a class="underline-link" href="https://starry.com/station" target="_blank">Starry Station</a> that provides functionality for users to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their mobile phones. Learn more about ScreenTime 2.0 on <a class="underline-link" href="https://www.producthunt.com/tech/screentime-for-starry-station" target="_blank">Product Hunt</a> and the <a class="underline-link" href="https://blog.starry.com/whats-new-screentime-just-got-better-for-parents/" target="_blank">Starry Blog</a>.
-#   used:
-#   - thing: JavaScript
-#   - thing: CSS
-#   - thing: Handlebars
-#   - thing: Backbone
-#   - thing: Marionette
-#   - thing: Cordova
-
-- name: Personal Website V2
-  url: https://bchiang7.github.io/v2
-  code: https://github.com/bchiang7/v2
-  description: Second iteration of my personal website. Designed and developed with a conscious effort to avoid using any superfluous frameworks like Bootstrap.
+- name: Robot Arm Sorter
+  url: 
+  code: 
+  description: Used ROS and Python to control robot arm, making it detect the correct objects on the table using openCV and place them in color order
   used:
-    - thing: Jekyll
-    - thing: Handlebars
-    - thing: SCSS
-    - thing: JavaScript
-    - thing: Github Pages
+    - thing: Robotics
+    - thing: Python
+    - thing: ROS
+    - thing: OpenCV
 
-- name: React Resume
-  url: https://bchiang7.github.io/react-profile/
-  code: https://github.com/bchiang7/react-profile/
-  description: An online version of my 2016 resume I made for fun. I was interested in learning React.js, so I found this <a class="underline-link" href="https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.1439cdewq">simple tutorial</a> and it kind of spun into this weekend project. I probably didn't need to use React at all, but hey, at least I learned a few things!
+- name: Crypto Arbitrage
+  url: 
+  code:
+  description: Software that does inter-platform and intra-platform arbitrage
   used:
-    - thing: JavaScript
-    - thing: React
-    - thing: CSS
-
-- name: CourseSource
-  url: http://webdevspring2016-chiangbrittany.rhcloud.com/project/client/#/login
-  code: https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project
-  description: A web application built on the MEAN (MongoDB, Express, Angular, Node) stack for my web development course at Northeastern. I created this web app with the intention of providing Northeastern Students a better experience browsing the courses offered at Northeastern.
-  used:
-    - thing: HTML
+    - thing: Crypto
     - thing: CSS
     - thing: JavaScript
     - thing: Node.js

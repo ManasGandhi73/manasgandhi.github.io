@@ -29,6 +29,8 @@
     - thing: React
 
 - name: Reinforcement Learning with Policy Gradient Methods
+  url: https://www.linkedin.com/in/manas-gandhi/
+  code: https://www.linkedin.com/in/manas-gandhi/
   description: Developed reinforcement learning algorithms through policy gradient methods such as Proximal Policy Optimization, future
 returns, and advantage estimation using PyTorch and Python to test on OpenAI gymnasium environments
   used:
@@ -37,7 +39,9 @@ returns, and advantage estimation using PyTorch and Python to test on OpenAI gym
     - thing: PyTorch
     - thing: OpenAI
 
-- name: Robot Arm Sorter 
+- name: Robot Arm Sorter
+  url: https://www.linkedin.com/in/manas-gandhi/
+  code: https://www.linkedin.com/in/manas-gandhi/
   description: Used ROS and Python to control robot arm, making it detect the correct objects on the table using openCV and place them in color order
   used:
     - thing: Robotics
@@ -46,6 +50,8 @@ returns, and advantage estimation using PyTorch and Python to test on OpenAI gym
     - thing: OpenCV
 
 - name: Crypto Arbitrage
+  url: https://www.linkedin.com/in/manas-gandhi/
+  code: https://www.linkedin.com/in/manas-gandhi/
   description: Software that does inter-platform and intra-platform arbitrage on stable coins, monitering when they change value and investing with low latency
   used:
     - thing: Crypto

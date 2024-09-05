@@ -1,6 +1,6 @@
 - name: BANG
-  url: https://github.com/bchiang7/Surf-Videos
-  code: https://github.com/bchiang7/Surf-Videos
+  url: https://github.com/manaspgandhi/subscribe-kadena
+  code: https://github.com/manaspgandhi/subscribe-kadena
   description: Small React project created during an interview process to browse and search surf videos via the YouTube API.
   used:
     - thing: JavaScript

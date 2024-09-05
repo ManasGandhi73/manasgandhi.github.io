@@ -9,9 +9,9 @@
     - thing: Node
     - thing: Pact/Marmalade
 
-- name: Halcyon Theme
-  url: https://bchiang7.github.io/halcyon-site/
-  code: https://github.com/bchiang7/halcyon-site
+- name: Quantum Options Pricing Model
+  url: https://github.com/uiucdisruptionlab/sp22_quantum_options
+  code: https://github.com/uiucdisruptionlab/sp22_quantum_options
   description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
   used:
     - thing: Gatsby
@@ -26,6 +26,7 @@
   code: https://github.com/IlliniBlockchain/sap-contracts
   description: Lending protocol to lend money for investment through smart contracts, with NFTs as collateral.
   used:
+    - thing: Blockchain
     - thing: Python
     - thing: MySQL
     - thing: Flask
@@ -33,7 +34,7 @@
     - thing: CSS
     - thing: JavaScript
 
-- name: myNEU Redesign
+- name: Reinforcement Learning with Policy Gradient Methods
   url: https://bchiang7.github.io/Redesign-myNEU/
   code: https://github.com/bchiang7/Redesign-myNEU
   description: myNEU student portal web prototype for my information science senior project. I conducted a study that aimed to answer the question of how myNEU can be improved to provide students at Northeastern with a better user experience. Informed by usability metrics gathered from user tests, I redesigned and developed a web prototype of myNEU.
@@ -43,7 +44,7 @@
     - thing: SCSS
     - thing: JavaScript
 
-- name: Crowd DJ
+- name: Robot Arm Sorter
   url: https://github.com/crowddj/crowddj-react
   code: https://github.com/crowddj/crowddj-react
   description:
@@ -55,7 +56,7 @@
     - thing: Firebase
     - thing: Spotify API
 
-- name: Weather Widget
+- name: Crypto Arbitrage
   url: http://quiet-dusk-89245.herokuapp.com/
   code: https://github.com/bchiang7/DemoWebApp
   description: A simple weather app I made at HubSpot's Fall 2016 Web App Workshop with Node.js, Express, and Heroku. I used the OpenWeatherMap API to get weather and forecast data, and then used the current city's coordinates to create a map background that reflected the current city using the Google Maps API.

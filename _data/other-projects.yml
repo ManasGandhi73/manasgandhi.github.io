@@ -14,12 +14,10 @@
   code: https://github.com/uiucdisruptionlab/sp22_quantum_options
   description: Created a options price prediction model using a quantum version of the Monte Carlo method using qiskit.
   used:
-    - thing: Gatsby
-    - thing: Sublime Text
+    - thing: Quantum Computing
+    - thing: Python
     - thing: Atom
-    - thing: VS Code
-    - thing: iTerm2
-    - thing: Hyper
+    - thing: Qiskit
 
 - name: SAP Lend
   url: https://github.com/IlliniBlockchain/sap-contracts
@@ -27,45 +25,37 @@
   description: Lending protocol to lend money for investment through smart contracts, with NFTs as collateral.
   used:
     - thing: Blockchain
-    - thing: Python
-    - thing: MySQL
-    - thing: Flask
-    - thing: HTML
-    - thing: CSS
-    - thing: JavaScript
+    - thing: Solidity
+    - thing: Hardhat
+    - thing: React
 
 - name: Reinforcement Learning with Policy Gradient Methods
   url: https://bchiang7.github.io/Redesign-myNEU/
   code: https://github.com/bchiang7/Redesign-myNEU
   description: Developed reinforcement learning algorithms through policy gradient methods such as Proximal Policy Optimization, future returns, and advantage estimation using PyTorch and Python to test on OpenAI gymnasium environments.
   used:
-    - thing: Jekyll
-    - thing: HTML
-    - thing: SCSS
-    - thing: JavaScript
+    - thing: Machine Learning
+    - thing: Python
+    - thing: PyTorch
+    - thing: OpenAI
 
 - name: Robot Arm Sorter
   url: https://github.com/crowddj/crowddj-react
   code: https://github.com/crowddj/crowddj-react
   description: Used ROS and Python to control robot arm, making it detect the correct objects on the table using openCV and place them in color order.
   used:
-    - thing: React
-    - thing: Sass
-    - thing: Firebase
-    - thing: Spotify API
+    - thing: Robotics
+    - thing: Python
+    - thing: ROS
+    - thing: OpenCV
 
 - name: Crypto Arbitrage
   url: http://quiet-dusk-89245.herokuapp.com/
   code: https://github.com/bchiang7/DemoWebApp
   description: Software that does inter-platform and intra-platform arbitrage on stable coins, monitering when they change value and investing with low latency.
   used:
-    - thing: JavaScript
-    - thing: CSS
-    - thing: Node.js
-    - thing: Express
-    - thing: Heroku
-    - thing: OpenWeatherMap API
-    - thing: Google Maps API
+    - thing: Crypto
+    - thing: Python
 
 # - name: ScreenTime 2.0
 #   url: https://play.google.com/store/apps/details?id=com.starry.management

@@ -16,11 +16,13 @@
     </div>
     <a href="{{site.resume}}" target="_blank" class="arrow-link">View My Resume</a>
   </div>
-  
+</section>
+
+<section class="section experience">
   <div class="section__title">Organizations</div>
   <div class="section__content">
     <div class="jobs">
-      {% for job in site.data.experience %}
+      {% for job in site.data.organizations %}
       <div class="job">
         <div class="time-place">
           <div class="job__company">
@@ -32,7 +34,5 @@
       </div>
       {% endfor %}
     </div>
-
-    
   </div>
 </section>

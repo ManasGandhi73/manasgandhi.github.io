@@ -18,17 +18,15 @@
     - thing: Python
     - thing: Qiskit
 
-- name: Lonely Planet DBMS
-  url: https://github.com/bchiang7/CS3200-Project
-  code: https://github.com/bchiang7/CS3200-Project
-  description: Final project for my Database Design course at Northeastern. A simple web application that allows users to filter through a database containing Lonely Planet's <a class="underline-link" href="https://www.amazon.com/Lonely-Planets-Ultimate-Travel-Places/dp/1760342777" target="_blank">Top 500 Travel Destinations</a>. Users are able to add themselves as visitors as well as leave reviews of the destinations.
+- name: SAP Lend
+  url: 
+  code: https://github.com/IlliniBlockchain/sap-contracts
+  description: Lending protocol to lend money for investment through smart contracts, with NFTs as collateral.
   used:
-    - thing: Python
-    - thing: MySQL
-    - thing: Flask
-    - thing: HTML
-    - thing: CSS
-    - thing: JavaScript
+    - thing: Blockchain
+    - thing: Solidity
+    - thing: Hardhat
+    - thing: React
 
 - name: myNEU Redesign
   url: https://bchiang7.github.io/Redesign-myNEU/

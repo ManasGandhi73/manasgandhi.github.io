@@ -12,7 +12,7 @@
 - name: Quantum Options Pricing Model
   url: https://github.com/uiucdisruptionlab/sp22_quantum_options
   code: https://github.com/uiucdisruptionlab/sp22_quantum_options
-  description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
+  description: Created a options price prediction model using a quantum version of the Monte Carlo method using qiskit
   used:
     - thing: Gatsby
     - thing: Sublime Text
@@ -37,7 +37,8 @@
 - name: Reinforcement Learning with Policy Gradient Methods
   url: https://bchiang7.github.io/Redesign-myNEU/
   code: https://github.com/bchiang7/Redesign-myNEU
-  description: myNEU student portal web prototype for my information science senior project. I conducted a study that aimed to answer the question of how myNEU can be improved to provide students at Northeastern with a better user experience. Informed by usability metrics gathered from user tests, I redesigned and developed a web prototype of myNEU.
+  description: Developed reinforcement learning algorithms through policy gradient methods such as Proximal Policy Optimization, future
+returns, and advantage estimation using PyTorch and Python to test on OpenAI gymnasium environments
   used:
     - thing: Jekyll
     - thing: HTML
@@ -47,9 +48,7 @@
 - name: Robot Arm Sorter
   url: https://github.com/crowddj/crowddj-react
   code: https://github.com/crowddj/crowddj-react
-  description:
-    A web app that allows people who are at a party or social gathering with a DJ to request songs via their smartphones. The web app allows people to see the currently playing song, request songs, upvote songs, and rate songs so the DJ can see how the crowd is feeling and act accordingly. In other words, Crowd DJ is essentially a crowdsourced music queue. <br>
-    <a class="small" href="http://projects.hackbeanpot.com/2017-projects.html">🏆 Won Best UI/UX Design at Hackbeanpot 2017 🏆</a>
+  description: Used ROS and Python to control robot arm, making it detect the correct objects on the table using openCV and place them in color order
   used:
     - thing: React
     - thing: Sass
@@ -59,8 +58,7 @@
 - name: Crypto Arbitrage
   url: http://quiet-dusk-89245.herokuapp.com/
   code: https://github.com/bchiang7/DemoWebApp
-  description: A simple weather app I made at HubSpot's Fall 2016 Web App Workshop with Node.js, Express, and Heroku. I used the OpenWeatherMap API to get weather and forecast data, and then used the current city's coordinates to create a map background that reflected the current city using the Google Maps API.
-  img: weather
+  description: Software that does inter-platform and intra-platform arbitrage on stable coins, monitering when they change value and investing with low latency
   used:
     - thing: JavaScript
     - thing: CSS

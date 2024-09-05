@@ -1,5 +1,5 @@
 - name: Subscribe Kadena
-  url: 
+  url: https://github.com/manaspgandhi/subscribe-kadena
   code: https://github.com/manaspgandhi/subscribe-kadena
   description: Marmalade NFT based subscription model for subscription services such as Netflix and the gym; used Pact, React, and Node 
   used:
@@ -10,7 +10,7 @@
     - thing: Node
 
 - name: Quantum Options Pricing Model
-  url:
+  url: https://github.com/uiucdisruptionlab/sp22_quantum_options
   code: https://github.com/uiucdisruptionlab/sp22_quantum_options
   description: Created a options price prediction model using a quantum version of the Monte Carlo method using qiskit 
   used:
@@ -19,7 +19,7 @@
     - thing: Qiskit
 
 - name: SAP Lend
-  url: 
+  url: https://github.com/IlliniBlockchain/sap-contracts
   code: https://github.com/IlliniBlockchain/sap-contracts
   description: Lending protocol to lend money for investment through smart contracts, with NFTs as collateral.
   used:
@@ -29,8 +29,6 @@
     - thing: React
 
 - name: Reinforcement Learning with Policy Gradient Methods
-  url: 
-  code: 
   description: Developed reinforcement learning algorithms through policy gradient methods such as Proximal Policy Optimization, future
 returns, and advantage estimation using PyTorch and Python to test on OpenAI gymnasium environments
   used:
@@ -39,9 +37,7 @@ returns, and advantage estimation using PyTorch and Python to test on OpenAI gym
     - thing: PyTorch
     - thing: OpenAI
 
-- name: Robot Arm Sorter
-  url: 
-  code: 
+- name: Robot Arm Sorter 
   description: Used ROS and Python to control robot arm, making it detect the correct objects on the table using openCV and place them in color order
   used:
     - thing: Robotics
@@ -50,8 +46,6 @@ returns, and advantage estimation using PyTorch and Python to test on OpenAI gym
     - thing: OpenCV
 
 - name: Crypto Arbitrage
-  url: 
-  code:
   description: Software that does inter-platform and intra-platform arbitrage on stable coins, monitering when they change value and investing with low latency
   used:
     - thing: Crypto
